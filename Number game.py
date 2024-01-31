@@ -44,8 +44,8 @@ while True:
             level = 1
         else:
             print()
-            print("Hope You Enjoyed this game..!!")
-            print("THANK YOU")
+            print("Hope You Enjoyed this game!!\U0001F917")
+            print("THANK YOU\U0001F607")
             break
         
     if level > 3:
